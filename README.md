@@ -1,2 +1,3 @@
 # Data-Cleaning-using-Jupyter-Notebook.-Project-1
 In this project, I used the dropping and replacing methods to clean an NFL tournament dataset.
+The dataset involved is a dataset derived from kaggle.com. It is a dataset about NFL competition from 2009 to 2017. The data cleaning process began by first viewing a part of the dataset to see if we can visually identify some empty cells, symbolized by NaN in Jupyter Notebook. Next, the percentage of the dataset missing was calculated. There were two approaches used to clean the data, namely the dropping approaching and replacing approach. FInd more information in the attached Notebook.
